@@ -8,9 +8,9 @@ def second_challenge
 
   #code your solution here!
 
-puts groceries.values.class
+puts groceries.values
 
 end
 
-second_challenge
+#second_challenge
 
